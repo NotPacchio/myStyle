@@ -1,0 +1,57 @@
+body {
+  background-color: #001a33;
+  color: whitesmoke;
+}
+
+h1 {
+  color: orangered;
+
+}
+
+h1::first-letter {
+  font-size: 200%;
+}
+
+h2 {
+  color: orange;
+}
+
+h3 {
+  color: yellow;
+}
+
+h4 {
+  color: greenyellow;
+}
+
+h5 {
+  color: aquamarine;
+}
+
+h6 {
+  color: blueviolet;
+}
+
+a {
+  color: cyan;
+}
+
+a:hover {
+  color: rgb(0, 255, 0);
+}
+
+input,
+textarea,
+select,
+dialog {
+  background-color: rgb(0, 0, 202);
+}
+
+button {
+  background-color: black;
+  color: wheat;
+}
+
+li {
+  color: chartreuse;
+}
